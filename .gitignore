@@ -21,6 +21,7 @@
 .Rproj.user/
 /docs/*.html 
 /docs/"01-Aufgabe Eins_files"/
+/docs/*.txt/
 /module/
 /audio/
 /quarto-brief/
