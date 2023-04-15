@@ -26,6 +26,9 @@
 /quarto-brief/
 /TESTS/
 /urls/
+*.html
+*.Rproj
+
 
 # produced vignettes
 vignettes/*.html
