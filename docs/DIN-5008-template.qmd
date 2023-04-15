@@ -1,0 +1,47 @@
+---
+format: brief-pdf
+author:
+  - name: Robert C. Cline
+    email: rccline@fastmail.fm
+    phone: +1 713 806 6011
+    affiliation: Golden Triangle Land Services, Inc. 
+      # - address: "P.O. Box 279"
+      #   postal-code: 69162
+      #   city: Sidney, NE
+      #   country: Vereignigten Staaten
+address:
+  - Corge Grault
+  - Quuxstraße 314
+  - 4711 Garply
+  - Xyzzilien
+yourmail: 1. Januar 2023
+yourref: 123
+myref: 456
+customer: 789
+invoice: "001"
+subject: Betreffzeile
+opening: Sehr geehrte Damen und Herren,
+closing: Mit freundlichem Gruß
+encl:
+  - Anlage 1
+  - Anlage 2
+ps: |
+  PS: Lorem ipsum dolor sit amet, *consectetur* adipiscing elit.
+---
+
+ich möchte Ihnen einen Briefkopf kompatibel zu DIN 5008 vorstellen. Briefe
+schreiben ist jetzt endlich einfach! So machen wir es:
+
+1. Ein neues Verzeichnis anlegen
+2. Die Briefvorlage verwenden: `quarto use template mavam/brief`
+3. YAML Metadaten adaptieren
+4. Brief in Markdown schreiben
+5. PDF erstellen: `quarto render template.qmd`
+
+Verbesserungsvorschläge nehme ich gerne als GitHub Issue unter
+<https://github.com/mavam/quarto-brief> entgegen. 
+
+```{r}
+quarto use template mavam/quarto-brief
+```
+
