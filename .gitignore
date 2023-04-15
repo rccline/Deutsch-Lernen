@@ -20,7 +20,9 @@
 # RStudio files
 .Rproj.user/
 /docs/*.html 
-/docs/"01-Aufgabe Eins_files"/
+/docs/01-Aufgabe\ Eins_files/
+/docs/*.txt/
+
 /docs/*.txt/
 /module/
 /audio/
