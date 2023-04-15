@@ -1,0 +1,89 @@
+---
+title: "Aufgabe Eins - Lingster Akadamie"
+format: html
+editor: visual
+---
+
+
+
+### Inserting Umlauts   
+
+* [Insert special characters using *standard HTML code*](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+
+* **Umlaut formula**: **`&[letter]uml;`**   
+  - E.g.: Herr M&uuml;ller sagt: "&Uuml;ber den Wolken k&ouml;nnen Sonnenunterg&auml;nge 
+besonders sch&ouml;n sein." 
+
+* **Eszett formula**:  **`&szlig;`**
+  - E.g.:  Gro&szlig;artig  
+  
+# Ubung von Linkster Akadamie 
+
+### Module 1.1  
+
+
+
+F&uuml;r jedes wort, das du lernen m&ouml;chtest, *kreierst* du ein Bild im Kopf.  
+
+* Neue w&ouml;rter  
+  - *einsch&auml;tzen* = bedeutet assess   
+  - *erstelle*; *kreierst* =  bedeutet create   
+  - *zun&auml;chst* = bedeutet *at first*  
+  - *Erscheinungs* bild  = bedeutet appearance  
+  - *auffallen*; Er *f&auml;llt* mit seinen 1.766 m gross sofort auf. 
+  - *Umfeld:* = bedeutet environment  
+  - *Scheidung eingereichen*; sie hat eine Scheidung eingereicht. 
+  - *Eingeh&ouml;rige* = bedeutet relatives  
+  - *Einsigartig;* = bedeutet unique 
+
+
+  
+* Kreiere mit diesen W&ouml;rtern eine Geschichte.  
+
+* Jedes der W&ouml;rter sollte mindistens 1-2 Mal vorkommen.  
+
+* &Uuml;be all vier Fertigkeiten damit:  
+  - Sprechen, Scrheiben, Lesen und H&ouml;ren 
+  
+* Zun&auml;chst, erfindest die Geschichte in deinen Kopf;  
+  - und sagte dir laut vor  
+  
+* Danach, schreibst du die auf  
+
+* Achtung:  Es geht nur f&uuml;r die w&ouml;rter und nicht um die Grammatik;  
+
+* Machsts du am besten eins, zwei oder dreimal.  
+
+
+
+::: {.callout-note}
+
+*Merke dir*:  Du brauchsts 7 bis 10 Begegnungen pro Wort; damit du langfristig im deinem Wortschatz aufnehmen und du selbst benutzt.  
+:::
+
+
+
+
+### Module 1.2: Das Wesen der Menschen  
+
+* Neue w&ouml;rter  
+  - verhaltensweisen - behavior  
+    - Unserer Charakter ist die Summa unserer **Verhaltensweisen**; er definiert unser **Wesen** 
+  - *nachschlagen:* = *Schlage* die unbekannten W&ouml;rter *nach*!
+  - *Gro&szlig;zugig* = bedeutet generous
+  
+
+
+
+
+  
+
+
+  
+
+
+
+
+
+  
+  
