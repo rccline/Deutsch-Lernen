@@ -36,4 +36,10 @@ besonders sch&ouml;n sein."
 
 ### DIN-5008 Standard f&uuml;r Briefe
 
-Wenn Sie einen Brief auf Deutsch schreiben müssen und den DIN-5008-Standard einhalten möchten, empfehle ich die Verwendung das DIN-5008-Vorlagenformulars. Sie können die Vorlagendatei mit dem Namen *DIN-5008-template.qmd* aus dem Ordner "Docs/" herunterladen, indem Sie folgende Schritte ausführen.^[Din-5008 Vorlagenformular war von C Kuenzle entwickelt: <https://github.com/ckuenzle/din5008-letter.git>]
+Wenn Sie einen Brief auf Deutsch schreiben müssen und den DIN-5008-Standard einhalten möchten, empfehle ich die Verwendung das DIN-5008-Vorlagenformulars. Sie können die Vorlagendatei mit dem Namen *DIN-5008-template.qmd* aus dem Ordner "Docs/" herunterladen, indem Sie folgende Schritte ausführen.^[Din-5008 Vorlagenformular war von C Kuenzle entwickelt: <https://github.com/ckuenzle/din5008-letter.git>] 
+
+
+### Einfügen von Referenzen in R Markdown-Dokumente  
+
+* Folgen Sie diesem Link für eine *YouTube-Demonstration* mit Anweisungen zum Verwenden von *Zotero* und *css-Journal Styles* zum Einfügen von Zitaten in *Quarto- und Rmarkdown-Dokumente* für wissenschaftliches Schreiben. [Klicken Sie hier: Erstellt von Pat Schloss, 2021.](https://www.youtube.com/watch?v=yk54_j3-4RM&t=860s)
+
