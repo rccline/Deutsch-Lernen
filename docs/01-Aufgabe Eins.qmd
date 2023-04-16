@@ -2,107 +2,88 @@
 title: "Aufgabe Eins - Lingster Akadamie"
 format: html
 editor: visual
+bibliography: references.bib
+csl: apa.csl 
 ---
 
+### Inserting Umlauts
 
-### Inserting Umlauts   
+-   [Insert special characters using *standard HTML code*](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
 
-* [Insert special characters using *standard HTML code*](https://en.wikipedia.org/wiki/List_of_XML_and_HTML_character_entity_references)
+-   **Umlaut formula**: **`&[letter]uml;`**
 
-* **Umlaut formula**: **`&[letter]uml;`**   
-  - E.g.: Herr M&uuml;ller sagt: "&Uuml;ber den Wolken k&ouml;nnen Sonnenunterg&auml;nge 
-besonders sch&ouml;n sein." 
+    -   E.g.: Herr Müller sagt: "Über den Wolken können Sonnenuntergänge besonders schön sein."
 
-* **Eszett formula**:  **`&szlig;`**
-  - E.g.:  Gro&szlig;artig  
-  
-# Ubung von Linkster Akadamie 
+-   **Eszett formula**: **`&szlig;`**
 
-### Module 1.1  
+    -   E.g.: Großartig
 
+# Ubung von Linkster Akadamie
 
+### Module 1.1
 
-F&uuml;r jedes wort, das du lernen m&ouml;chtest, *kreierst* du ein Bild im Kopf.  
+Für jedes wort, das du lernen möchtest, *kreierst* du ein Bild im Kopf.
 
-* Neue w&ouml;rter  
-  - *einsch&auml;tzen* = bedeutet assess   
-  - *erstelle*; *kreierst* =  bedeutet create   
-  - *zun&auml;chst* = bedeutet *at first*  
-  - *Erscheinungs* bild  = bedeutet appearance  
-  - *auffallen*; Er *f&auml;llt* mit seinen 1.766 m gross sofort auf. 
-  - *Umfeld:* = bedeutet environment  
-  - *Scheidung eingereichen*; sie hat eine Scheidung eingereicht. 
-  - *Eingeh&ouml;rige* = bedeutet relatives  
-  - *Einsigartig;* = bedeutet unique 
+-   Neue wörter
 
+    -   *einschätzen* = bedeutet assess\
+    -   *erstelle*; *kreierst* = bedeutet create\
+    -   *zunächst* = bedeutet *at first*\
+    -   *Erscheinungs* bild = bedeutet appearance\
+    -   *auffallen*; Er *fällt* mit seinen 1.766 m gross sofort auf.
+    -   *Umfeld:* = bedeutet environment\
+    -   *Scheidung eingereichen*; sie hat eine Scheidung eingereicht.
+    -   *Eingehörige* = bedeutet relatives\
+    -   *Einsigartig;* = bedeutet unique
 
-  
-* Kreiere mit diesen W&ouml;rtern eine Geschichte.  
+-   Kreiere mit diesen Wörtern eine Geschichte.
 
-* Jedes der W&ouml;rter sollte mindistens 1-2 Mal vorkommen.  
+-   Jedes der Wörter sollte mindistens 1-2 Mal vorkommen.
 
-* &Uuml;be all vier Fertigkeiten damit:  
-  - Sprechen, Scrheiben, Lesen und H&ouml;ren 
-  
-* Zun&auml;chst, erfindest die Geschichte in deinen Kopf;  
-  - und sagte dir laut vor  
-  
-* Danach, schreibst du die auf  
+-   Übe all vier Fertigkeiten damit:
 
-* Achtung:  Es geht nur f&uuml;r die w&ouml;rter und nicht um die Grammatik;  
+    -   Sprechen, Scrheiben, Lesen und Hören
 
-* Machsts du am besten eins, zwei oder dreimal.  
+-   Zunächst, erfindest die Geschichte in deinen Kopf;
 
+    -   und sagte dir laut vor
 
+-   Danach, schreibst du die auf
 
-::: {.callout-note}
+-   Achtung: Es geht nur für die wörter und nicht um die Grammatik;
 
-*Merke dir*:  Du brauchsts 7 bis 10 Begegnungen pro Wort; damit du langfristig im deinem Wortschatz aufnehmen und du selbst benutzt.  
+-   Machsts du am besten eins, zwei oder dreimal.
+
+::: callout-note
+*Merke dir*: Du brauchsts 7 bis 10 Begegnungen pro Wort; damit du langfristig im deinem Wortschatz aufnehmen und du selbst benutzt.
 :::
 
+### Module 1.2: Das Wesen der Menschen
 
+-   Neue wörter
+    -   verhaltensweisen - behavior
+        -   Unserer Charakter ist die Summa unserer **Verhaltensweisen**; er definiert unser **Wesen**
+    -   *nachschlagen:* = *Schlage* die unbekannten Wörter *nach*!
+    -   *Großzugig* = bedeutet generous
+    -   *verraten* = bedeutet revealed; as in "giving away a secret or betraying a trust.
+        -   Auf dem ersten Bild **verrät** der Gesichtsausdruk des mannes, das er traurig ist.\
+        -   Ich verrate dir mein Passwort.\
+    -   *Enthüllen* = bedeutet "uncover" in a positive sense; ;uncovering the truth.
 
+::: callout-note
+Das *enthüllen* dazu dient, etwas aufzudecken, das zuvor verborgen oder unbekannt war, während *verraten* bedeutet, Informationen preiszugeben oder das Vertrauen einer Person zu verraten.
+:::
 
-### Module 1.2: Das Wesen der Menschen  
+-   Weitere Wörter, die in der ersten Lektion vorkommen sind:
 
-* Neue w&ouml;rter  
-  - verhaltensweisen - behavior  
-    - Unserer Charakter ist die Summa unserer **Verhaltensweisen**; er definiert unser **Wesen** 
-  - *nachschlagen:* = *Schlage* die unbekannten W&ouml;rter *nach*!
-  - *Gro&szlig;zugig* = bedeutet generous
-  - *verraten* = bedeutet revealed; as in "giving away a secret or betraying a trust.   
-    - Auf dem ersten Bild **verr&auml;t** der Gesichtsausdruk des mannes, das er traurig ist.  
-    - Ich verrate dir mein Passwort.  
-  - *Enth&uuml;llen* = bedeutet "uncover" in a positive sense; ;uncovering the truth.
-  
-::: {.callout-note}
-  
-  Das *enthüllen* dazu dient, etwas aufzudecken, das zuvor verborgen oder unbekannt war, während *verraten* bedeutet, Informationen preiszugeben oder das Vertrauen einer Person zu verraten.  
-  
-:::   
-  
-
-* Weitere W&ouml;rter, die in der ersten Lektion vorkommen sind:  
-
-  - *Gesichtsausdruk*, *nachdenklichen*, *w&uuml;tenden*  
-  - *schief* bedeutet awry. z.B. " Vermutlich läuft etwas auf seiner Arbeit *schief*. "
-  - *eigenschaften* z.B. Die Eigenschaften der vier Personen, diese sind die Traurigkeit, die Wt und die Skepsis.  a
-  - *Bedruckten* bedeutet 'dejected', z.B. Auf dem ersten Foto sehe ich einen *bedr&uuml;ckten* Mann, der vermutlich von seiner Frau verlassen wurde und der sich einsam f&uuml;hlt.  
-  - *Durftig* bedeutet poor. z.B. Mein Wortschatz ist immer noch sehr d&uumlrftig.  
-  - *Ausdauer* bedeutet endurance.  Typisch menschliche positive Eigenschaften sind *Entschlusskraft* (determination) und *Ausdauer*. 
-  - *Ann&auml;herung* bedeutet rapprochement 
-  
-  
-
-
-  
-
-
-  
-
-
-
-
-
-  
-  
+    -   *Gesichtsausdruk*, *nachdenklichen*, *wütenden*\
+    -   *schief* bedeutet awry. z.B. " Vermutlich läuft etwas auf seiner Arbeit *schief*. "
+    -   *eigenschaften* z.B. Die Eigenschaften der vier Personen, diese sind die Traurigkeit, die Wt und die Skepsis. a
+    -   *Bedruckten* bedeutet 'dejected', z.B. Auf dem ersten Foto sehe ich einen *bedrückten* Mann, der vermutlich von seiner Frau verlassen wurde und der sich einsam fühlt.\
+    -   *Durftig* bedeutet poor. z.B. Mein Wortschatz ist immer noch sehr d&uumlrftig.\
+    -   *Ausdauer* bedeutet endurance. Typisch menschliche positive Eigenschaften sind *Entschlusskraft* (determination) und *Ausdauer*.
+    -   *Annäherung* bedeutet rapprochement
+    -   *Umsetzung* bedeutet implimentation:
+        -   *Wir haben kein Erkenntnisproblem, wir haben ein Umsetzungsproblem*, Claudia Kemfert (2023)[@wirha2023]
+        
+### References  
