@@ -15,7 +15,7 @@ Wenn Sie Interesse daran haben, RMarkdown zu lernen, gibt es viele Tutorials auf
 
 
 
-Die ersten Übungen das Sie heir finden stammen von der *Linkster Akademie* und wurden von Julia Brodt entwickelt. Erfahren Sie mehr, indem Sie [hier klicken](https://www.youtube.com/watch?v=t-9IF5JR7o4&t=3945s) f&uuml;r mehr &uuml;ber den Kurs.  
+Die ersten Übungen das Sie heir finden stammen von der *Linkster Akademie* und wurden von Julia Brodt entwickelt. Zu erfahren Sie mehr indem,  [klicken Sie hier](https://www.youtube.com/watch?v=t-9IF5JR7o4&t=3945s) f&uuml;r mehr &uuml;ber den Kurs. Sie konnen auch [hier klicken](https://lingster.de/1x1grammatik/) f&uuml;r ein 100% kostenlos E-Book als PDF von der *Lingster Akadamie* &uuml;ber die deutsche Grammatik.   
 
 
 
