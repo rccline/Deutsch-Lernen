@@ -7,60 +7,59 @@ bibliography: references.bib
 csl: apa.csl 
 ---
 
+## Wer, Wen oder Was
 
-## Wer, Wen oder Was  
+-   Wenn ein Verb ein Objekt braucht, dann steht es normaleweise in Akkusativ
+    -   der = den
+    -   ein\[m\] = einen
+    -   nur die maskulin Artikel andern sich; der rest bleibt gleich.
+-   Steht immer in Nominativ\
+-   Was macht Lisa?
+    -   ... macht einen Deutsch Kurs auf Deutsch\
+    -   das Abendessen.
+    -   dan Fuhrerschein
+-   Wen Objekt, Mensch oder Sache sein kann, braucht man immer Akkusativ.
+    -   Ich kann Katze und main Auto lieben; sehen; usw.
+-   Wenn das Verb ist aber nur für Menschen logisch ist (und manche Tiere), dann brauch man ein Dativobjekt.[^1], [^2]
+    -   Wem dankt Lisa?\
 
-* Wenn ein Verb ein Objekt braucht, dann steht es normaleweise in Akkusativ
-  - der = den 
-  - ein[m] = einen 
-  - nur die maskulin Artikel andern sich; der rest bleibt gleich.    
-  
-* Steht immer in Nominativ  
-* Was macht Lisa?
-  - ... macht einen Deutsch Kurs auf Deutsch  
-  - das Abendessen. 
-  - dan Fuhrerschein  
-  
-* Wen Objekt, Mensch oder Sache sein kann, braucht man immer Akkusativ.
-  - Ich kann Katze und main Auto lieben; sehen; usw.  
-  
-* Wenn das Verb ist aber nur f&uuml;r Menschen logisch ist (und manche Tiere), dann brauch man ein Dativobjekt.^[Dativ Verben sind ganz typish f&uuml;r Manschen], ^[Verbs that indicate giving, showing, telling, or providing something to someone often take a dative object in German, as the dative case is used to indicate the indirect object, or the person who is receiving the action. For example, in the sentence "Ich gebe meinem Freund ein Geschenk" (I am giving a gift to my friend), "meinem Freund" is the dative object because it indicates the person who is receiving the gift.] 
-  - Wem dankt Lisa?  
-  - Wen hilfen wir?  
-  - Wem gef&auml;lt das Auto?  
-  
-  - Lisa dankt ihren Eltern  
-  - Wir helfen den alten Menschen.  
-  - Das Auto gef&auml;lt mir.  
-  
-AndererVerben die den Dativ braucht: 
-  - Uns smeckt das Essen  
-  - Wem smeckt das Essen? Menschen  
-  - Es tut mir leid.  Wem tut es leid?  Menschen  
-  - Wie heisst deiser Schaurspieler?  
-  - Es f&auml;llt mir nicht.  
-  
-* Die Artikel ändern sich im Dativ
-  - der = dem
-  - die = der  
-  - das = dem 
-  - die = der 
-  - 
-  - ein =  einem  
-  - eine = einer  
-  
-  
-  
+    -   Wen hilfen wir?\
 
-## Wo  = Dativ; Daur (seit wann) = Dativ
+    -   Wem gefält das Auto?
 
-* Objekte stehen niemals *im Nominativ*  
-  -  "In" nimmt den Dativ an, um den Ort oder Zustand anzuzeigen.
-  - Lisa schl&auml;ft zwei Stunden. 
+    -   Lisa dankt ihren Eltern\
 
-## Wohin  = Akkusativ 
-  - "In" nimmt den Akkusativ an, wenn es Bewegung oder Richtung zu einem Ort oder Gegenstand anzeigt.  
-  -  *Transitivverben* nehmen den Akkusativ an; d.h auf English.  
-  -  Transitive verbs take a Direct Object.   
+    -   Wir helfen den alten Menschen.\
 
+    -   Das Auto gefält mir.
 
+[^1]: Dativ Verben sind ganz typish für Manschen
+
+[^2]: Verbs that indicate giving, showing, telling, or providing something to someone often take a dative object in German, as the dative case is used to indicate the indirect object, or the person who is receiving the action. For example, in the sentence "Ich gebe meinem Freund ein Geschenk" (I am giving a gift to my friend), "meinem Freund" is the dative object because it indicates the person who is receiving the gift.
+
+AndererVerben die den Dativ braucht: - Uns smeckt das Essen\
+- Wem smeckt das Essen? Menschen\
+- Es tut mir leid. Wem tut es leid? Menschen\
+- Wie heisst deiser Schaurspieler?\
+- Es fällt mir nicht.
+
+-   Die Artikel ändern sich im Dativ
+    -   der = dem
+    -   die = der\
+    -   das = dem
+    -   die = der
+    -   
+    -   ein = einem\
+    -   eine = einer
+
+## Wo = Dativ; Daur (seit wann) = Dativ
+
+-   Objekte stehen niemals *im Nominativ*
+    -   "In" nimmt den Dativ an, um den Ort oder Zustand anzuzeigen.
+    -   Lisa schläft zwei Stunden.
+
+## Wohin = Akkusativ
+
+-   "In" nimmt den Akkusativ an, wenn es Bewegung oder Richtung zu einem Ort oder Gegenstand anzeigt.\
+-   *Transitivverben* nehmen den Akkusativ an; d.h auf English.\
+-   Transitive verbs take a Direct Object.
