@@ -1,0 +1,279 @@
+---
+title: "02-Adjektiv Endungen"
+author: "Noten von einer Vorlesung der Linkster Academy"
+format: html
+editor: visual
+---
+
+
+### Adjektivdeklination bedeutet, dass ein Adjektiv ein Endung braucht, wenn es vor einem Nomen verwendet wird.   
+
+* [Klicken Sie hier für Linkster Academy YouTube URL](https://youtu.be/CpO9Wn4wTy4)
+* [Hier finden Sie kostenloses Material mit Tabellen und Übungen zur Adjektivdeklination](https://lingster.de/1x1grammatik/)
+* [Klicken Sie hier für die Literaturliste der Linkster Academy](https://www.amazon.de/shop/lingster.academy)
+
+`&szlig;`
+
+# Adjektiv noch bestimmtenl Artikel *singular*  
+
+## Alle Nomen maskulin  
+
+* Der alte Mann kauft (Nominativ)   
+den neuen Wagen (AKK)  
+mit dem starken Morot (Dat)  
+des Tueren Herstellers Porsche.  (Gen)
+
+## Alle Nomen feminin   
+
+* Die junge Frau (Nom) kauft  
+die sch&ouml;ne Jaeke (Akk)  
+mit der blauen Kapuze (Dat)  
+der deutschen Firme Bogner. (Gen) 
+
+## Alle Nomen neuterum  
+
+* Das kleine Kind (Nom) sieht  ^[Im Deutschen wird die Adjektivendung "-e" nur für einzelne, sächliche und männliche Nomen im Nominativ verwendet], ^[Die Plural nimmt die Adjektivendung "-en"; z.B. *Die kleinen Kinder sind in der Schule.*]
+das blonde M&auml;dchen (Akk)  
+mit dem roten Fahred (Dat)  
+
+* Es ist das Fahrrad  
+des blonden M&auml;dchens (Gen) 
+
+# Modul 6.1: Übungen zu Attributen in Phrasen 
+
+1. Die dunkelblaue Kaffeetqasse auf dem Tisch (Subjekt) geh&ouml;rt (Pr&auml;dikat - Pr&auml;sens) mir (Dativobjekt). 
+
+**Die** dunkelblaue (Adjektiv-Attribut) **Kaffeetasse** (Kopf)^["Kopf" in this context means "head" or "main," so "das Bezugswort (Kopf)" can be translated to "the main noun (head)" or "the head noun (antecedent)." This term is often used in reference to relative clauses, where the pronoun or relative pronoun refers back to the main noun in the sentence.] auf dem Tisch (Pr&auml;positional-Attribut)  
+
+2. In dieses Haus dort werden wir bald einziehen.  
+
+* In dieses Haus (Lokaladverbial *Wohin* - Akk)  
+* awerden wir (Subjekt)  
+* bald (Temporaladerbial *Wann*)  
+* einziehen (Pr&auml;dikat: werden_einziehen - Futur I)  
+* In dieses Haus (Kopf) dort (Adverbial-Attribut)
+
+
+3. Carina hat einen besonders schönen Kater zuhause. 
+* *einen besonders schönen Kater* (Akkusativobjekt)  
+* *einen* is the masculine accusative singular from of the *indefinate article* "ein"    
+* *besonders* is an adverb describing the intensity of the adjective, schönen  
+* *schönen* is the masculine singular accusative form of schön modifying "Kater" or cat.  
+
+4. Der 50 Meter hohe (Adjektiv-Attribut) Schornstein (Subject) der Fabrik (Gen) wird bald (Temporaladverbial: Wann) abgerissen. 
+
+5. Annika (Subject) hat (Pr&auml;dikat) ihr verletztes Knie (Akkusativobject) von einem Arzt in einer Klinik untersuchen lassen.
+
+\newpage
+
+### In German, the possible adjective endings that can modify singular nouns
+
+**Adjectives in front of the noun** ^[c.f., YourGerman Teacher on YouTube.com, <https://www.youtube.com/watch?v=exwewlcw8UY>] 
+
+
+When you have a *modified noun*, i.e., an **adjective in front of a noun**, you need at least one strong ending.  
+If you have a definite article with a strong ending, you do not need a strong ending on the adjective .  
+
+
+
+**Strong endings** (Der, die, das, die)  If you have *adjective in front of a noun*, you need either:  
+
+* Definite article with a strong ending, or   
+* Indefinate article with a strong ending.  
+
+
+**Weak endings**  
+
+* -e: used for singular feminine, neuter, and masculine nouns in the nominative case, as well as for plural nominative and accusative nouns of all genders.  
+
+* -en: used for singular and plural nouns of all genders in the accusative and dative cases.   
+
+* -em: used for singular masculine nouns in the dative case, as well as for singular and plural neuter nouns in the dative and accusative cases.  
+
+* -er: used for singular and plural masculine nouns in the genitive case, as well as for singular and plural feminine and neuter nouns in the genitive and plural dative cases.  
+
+* -es: used for singular neuter nouns in the genitive case.  
+
+## **Nominativ**
+
+| Genus | Def. Art.;^[Strong ending] | Adj Ending | Indef ^[Negative and Possessive Articles behave the same, z.B. kein, mein] | Adj Ending ^[Strong ending] |
+|------|------|------|------|-----|
+| M  | der  | -e  | ein | -er |
+| F  | die  | -e  | eine | -e |
+| N  | das  | -e  | ein | -es |
+| Pl  | die  | -en  | - | - e |  
+
+
+### **Nominativ Beispiele**  
+
+* Das ist kein kleines Haus.  
+* Das ist ihr m&uuml;der Hund.  
+
+**Ausnahmen**  mit plural.  
+Since the -e ending is a strong ending, you use -en on the adjective.  
+
+* Das sind keine kleinen H&auml;user.  
+* Das sind ihre m&uuml;den Hunde.  
+* Die kleinen Taschen (plural feminine)
+* Die grünen Bäume (plural masculine)
+* Die kleinen Häuser (plural neuter)
+
+
+## Adjektivdeklination Im Akkusativ ^[YouGerman Teacher <https://www.youtube.com/watch?v=uWMR5mymHII&list=PLKCEuz6wxDQnX_zs1mK8r-s3MxNKZPCYZ&index=2>]  
+Only the masculine changes from the Nominative.  
+
+| Genus | Def. Art.;^[Strong ending] | Weak Adj Ending | Indef ^[Negative and Possessive Articles behave the same, z.B. kein, mein] | Weak Adj Ending |
+|------|------|------|------|-----|
+| M  | der  | -en  | einen | -en |
+| F  | die  | -e  | eine | -e |
+| N  | das  | -e  | ein | -es |
+| Pl  | die  | -en  | - | - e |  
+
+### **Akkusativ Beispiele**
+
+**Masculin**
+
+* Morgens trinke ich einen hei&szlig;en Kaffee.  
+* Ich kaufe den heissen Kaffee bei Sab&ouml;cks.  
+
+
+
+**Neutrum**  
+* Ich esse gern ein frisches Br&ouml;tchen.  
+* Ich backe das kleine Br&ouml;tchen selbst.   
+
+
+** Feminin**  
+
+* Dazu esse ich eine s&uuml;&szlig;e Marmelade.
+* Ich finde die s&uuml;&szlig;e Marmelade lecker.  
+
+**Plural**  
+* Nach dem Essen lese ich alte Emails.  
+* Ich lese die neuen Emails sp&auml;ter.  
+
+### &Uuml;bungen  
+
+* Das Paar hat ein neues Haus gekauft.  
+* Linde liebt ihren truen Hundl.  
+* Mein Opa sammelt gern seltene Pilze.
+* Das Kind zieht die coole Brille an.  
+
+
+### Articles which decline like definite articles.  
+
+*  Demonstritvartikel (dieser, dieses, diese...)^[Demonstrativ artikeln: If you can point at it, you can use the Demonstrativ artikel *this*]  
+* Frageartikel (welcher, welches, welche..)  
+* Quantitativartikel (jeder, jedes, jede )
+
+
+### Beispiele  
+
+* Morgen kaufe ich dieses sch&ouml;ne Auto.  
+* Welch deutschen Potcasts h&ouml;rst du?  
+* Hans schaut jede neue Folge von Dark.  
+
+### Regeln f&uuml;r die Adjektivendungen  
+
+When you have an attributive adjective, i.e. *ein Adjektiv vor dem Noun*, you need one strong ending:^[Strong endings are the last letter of the definite Artikel]; either the article or the adjektiv.  
+
+There are only two weak endings *-e* and *-en*  
+
+* das kleine Br&ouml;tchen.  
+* ein kleines Br&ouml;tchen.   
+
+#  Nominativ
+| Genus | Def. Art.;^[Strong ending] | Weak Adj Ending | Indef ^[Negative and Possessive Articles behave the same, z.B. kein, mein] | Weak Adj Ending |
+|------|------|------|------|-----|  
+| M  | der  | **-e**  | ein| **-er** |  
+| F  | die  | -e  | eine | -e |    
+| N  | das  | -e  | ein | -es |   
+| Pl  | die  | -en  | - | -e |  
+
+
+# Akkusativ
+
+| Genus | Def. Art.;^[Strong ending] | Weak Adj Ending | Indef ^[Negative and Possessive Articles behave the same, z.B. kein, mein] | Weak Adj Ending |
+|------|------|------|------|-----|  
+| M  | den  | **-en**  | ein**en** | **-en** |  
+| F  | die  | -e  | eine | -e |    
+| N  | das  | -e  | ein | -es |   
+| Pl  | die  | -en  | - | - e |  
+
+# Dativ^[YourGerman Teacher YouTuube <https://www.youtube.com/watch?v=dBE4lA8ZemE>]  
+
+**Story**:  
+Alex war in seinem alten job nicht gl&uuml;cklich.  (Not happy)  
+Er hat sich oft mit dem m&uuml;hsamen Chef gestritten. (annoying boss)  
+Er hat einem guten Unternehmen seine Bewerbungsunmterlage geschickt. ^[He sent his applilcation documents to a good company]   
+
+* Schicken requres Dat & Akk  
+ 
+Er hat von dem hohen Gehalt getr&auml;umt.  (von + Dativ)  
+Er is mit seiner neuen Stelle zufrieden.  (mit + Dativ)  
+Vor der t&auml;glichen Arbeit liest er seine Emails.  (vor + Dativ)  
+Er telefoniert oft mit wichtigen Kunden.  (mit + Dativ)  
+Mit den netten Kokkegen kommt er sehr gut aus.  (mit + Dativ)  \
+
+**TIP 1 2 or more = same declinsion** 
+
+Ich learne jeden Tag neue deutsche W&ouml;rter.                            
+Er kauft oft einen teuren ausl&auml;ndischen Wein.    
+Sie redet mit der netten alten Nachbarin.    
+
+**Tipp 2 Nullartikel**  
+
+* No article at all in front of the adjective 
+* Nullartikel ending has the same ending as indefinite article ending for Nominative & Akkusative.  
+* Nullartikel in Dative case has because it needs the strong ending.  
+
+Junger Student sucht Wohnung.  
+Morgens trinkt er hei&szlig;en (Akk) Kaffee.  
+Die Kette is aus purem (Dat) Gold.  
+Ich trinke gern Kola.  
+
+::: {#tbl-panel layout-ncol=2}
+| Gender | Def | Indef |
+|------|------|------|
+| M    | -e   | **-er**|
+| F    | -e   | -e     |
+| N    | -e   | -es    |
+| PL   | -en  | -e     |
+
+: Nominativ {#tbl-first}
+
+| Gender  | Def | Indef |
+|------|------|------|
+| M    | **-en**| **-en** |
+| F    | -e     | -e   |
+| N    | -e     | -es |
+| PL   | -en    | -e  |
+
+: Akkusativ {#tbl-second}
+
+| Gender  | Def | Indef | Null
+|------|------|------|-----|
+| M    | **-en**  | **-en**|-em |
+| F    | **-en**  | **-en**|-er |
+| N    | **-en**  | **-en**|-em |
+| PL  | **-en**   | **-en**|-en |
+
+: Dativ {#tbl-third}
+
+**Adjektrivendungen**
+:::
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+# Wortordnung  
+
